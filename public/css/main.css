@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  }
+
+html {
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.name-title {
+  margin-top: 5%;
+}
+
+.caption {
+  font-size: 5em;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: 100;
+}
+
+.tagline {
+  font-size: 2.5em;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: 100;
+  letter-spacing: 0.2em
+
+}
